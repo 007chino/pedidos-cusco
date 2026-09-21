@@ -46,6 +46,20 @@ pedidos-cusco/
 └── README.md
 ```
 
+## Reflexión
+
+**¿Por qué Git es crítico en proyectos colaborativos?**
+
+Git guarda el historial completo del código: quién cambió qué, cuándo y por qué. Así varias personas trabajan a la vez, cada una en su propia rama, y luego integran sus cambios sin pisarse. Además, cada versión queda guardada, por lo que siempre se puede volver a un estado que funcionaba. Con un remoto como GitHub, todo el equipo comparte la misma fuente de verdad y puede revisar el trabajo de los demás antes de integrarlo.
+
+**¿Qué problemas evita?**
+
+- Perder código por errores, borrados accidentales o fallos del equipo.
+- Sobrescribir el trabajo de otro compañero al editar los mismos archivos.
+- Tener copias sueltas como `proyecto_final_v2_definitivo`, sin saber cuál es la buena.
+- No saber quién hizo un cambio ni por qué, lo que complica encontrar el origen de un error.
+- Que un cambio con fallos deje todo el proyecto sin funcionar, porque se puede revertir.
+
 ## Autor
 
 - 007chino — 141002@unsaac.edu.pe (UNSAAC)
